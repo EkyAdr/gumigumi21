@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gumigumi21
+- 👋 Hi, I’m @ekyadr
 - 👀 I’m interested in music
 - 🌱 I’m currently learning make a bot
 - 💞️ I’m looking to collaborate on noting :3
